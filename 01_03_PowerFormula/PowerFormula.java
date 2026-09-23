@@ -9,7 +9,7 @@ public class PowerFormula {
 	
 	double power = force*distance / time;
 	
-	System.out.println(power + " " + "W");
+	System.out.println("Power"+" "+"=" + " " +power+ " "  +"W");
 	
 	}
 }
